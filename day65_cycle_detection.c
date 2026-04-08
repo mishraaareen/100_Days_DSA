@@ -56,6 +56,5 @@ int main() {
 
     for (int i = 0; i < n; i++) free(adj[i]);
     free(adj);
-
     return 0;
 }
