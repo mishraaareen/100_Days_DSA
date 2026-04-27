@@ -16,7 +16,6 @@ int intSqrt(int x) {
     }
     return ans;
 }
-
 int main() {
     int n;
     scanf("%d", &n);
